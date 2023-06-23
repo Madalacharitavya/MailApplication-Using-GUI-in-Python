@@ -26,3 +26,4 @@ When the user fills in the required fields and clicks the "Send Message" button,
 https://github.com/Madalacharitavya/MailApplication-Using-GUI-in-Python/assets/102969979/067321df-da3a-4d35-b5af-914799d37ab0
 
 
+
