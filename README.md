@@ -22,3 +22,7 @@ This code creates a simple email sender application using the `smtplib` library 
 5. Running the GUI:
    - The `mainloop()` function is called to start the Tkinter event loop, which keeps the GUI window open and handles user interactions.
 When the user fills in the required fields and clicks the "Send Message" button, the `send_message()` function is triggered, establishing a connection to the SMTP server, logging in, and sending the email.
+
+https://github.com/Madalacharitavya/MailApplication-Using-GUI-in-Python/assets/102969979/067321df-da3a-4d35-b5af-914799d37ab0
+
+
